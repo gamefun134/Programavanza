@@ -1,6 +1,6 @@
 //creado por: Daniel fernando gonzalez cortes
 //fecha: 13/02/2022
-//descripcion: taller 1
+//descripcion: taller 1 (Parte 2)
 //
 #include <iostream>
 #include <fstream>
