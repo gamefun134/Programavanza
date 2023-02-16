@@ -1,3 +1,6 @@
+//creado por: Daniel fernando gonzalez cortes
+//fecha: 13/02/2022
+//descripcion: taller 1(parte 1)
 #include <iostream>
 #include <cstdlib>
 #include <ctime> 
