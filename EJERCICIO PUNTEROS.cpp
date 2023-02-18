@@ -1,3 +1,8 @@
+/*
+AUTOR: DANIEL FERNANDO GONZALEZ CORTES
+FECHA: 8/02/2023
+TRABAJO: EJERCICIO DE VECTORES CON PUNTEROS
+*/
 #include <iostream>
 using namespace std;
 int main() {
